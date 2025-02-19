@@ -4,12 +4,6 @@
 
 The **MLFQ** project simulates a multi-level feedback queue scheduling algorithm allowing processes to move between different queues based on their execution history and priorities.
 
-## Functionalities
-
-1. **Implementation of Queues**: Develop an N-level feedback queue (with N ranging from 1 to 4) to manage at most 10 processes.
-2. **Process Scheduling**: Create a program that effectively schedules processes based on their arrival times and execution behavior.
-3. **Output Generation**: Generate a Gantt chart representation of the scheduled processes to visualize the scheduling outcome.
-
 ## Implementation Details
 
 ### Key Features
